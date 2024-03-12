@@ -1,0 +1,15 @@
+.con{
+  width: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap:5px;
+}
+.btn{
+background-color: rgb(231, 231, 241);
+width: 100px;
+height: 100px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
